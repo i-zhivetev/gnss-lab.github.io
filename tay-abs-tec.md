@@ -90,3 +90,5 @@ Should a scientific publication evolve from the conducted estimation from **TayA
 Copyright © 2017 [Anna Mylnikova](mailto:manna@iszf.irk.ru), [Yuri Yasyukevich](mailto:yu.yasyukevich@gnss-lab.org).
 
 Please note, that free online access to acquired data is arranged only for educational and non-commercial research purposes.
+
+And this is just a line to test forks.
